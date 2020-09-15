@@ -28,7 +28,7 @@ header{
     background: #f1f1f1
     max-width:100%;
     clear:both;
-    height:95px;
+    height:75px;
 }
 #header{
     text-align: center;
@@ -60,7 +60,7 @@ header{
 }
 .spasi {
     clear:both;
-    height: 95px;
+    height: 75px;
 }
 #nav {
     font-size:12px;
