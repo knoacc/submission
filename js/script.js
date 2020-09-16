@@ -1,6 +1,5 @@
 /*
-show hide (dropdown menu),
-remove elemen (hilangkan logo header)
+show hide (dropdown menu)
 & sticky menu saat scroll
 */
 
